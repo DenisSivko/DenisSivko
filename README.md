@@ -7,6 +7,7 @@
 Увлекаюсь спортом, хожу в зал, играю в игры, больше склонен к многопользовательским играм по сети, игре в команде. Люблю играть в настольные игры с друзьями и посещать новые места.</p><p align='left'> Вы можете посмотреть мое резюме <a href='https://disk.yandex.ru/i/9CRlgNbwdXNzhw ' target=_blank><u>тут</u>.</a></p>
 
 <p align='left'>Стек технологий:</p>
+
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray)  ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ## Github Stats
 
