@@ -12,4 +12,4 @@
 ## Github Stats
 
 [![DenisSivko GitHub stats](https://github-readme-stats.vercel.app/api?username=DenisSivko&theme=tokyonight&show_icons=true&hide=issues)](https://github.com/DenisSivko/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DenisSivko&layout=compact&langs_count=6&hide=roff&theme=tokyonight&exclude_repo=Wine_Shop)](https://github.com/DenisSivko/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DenisSivko&layout=compact&langs_count=6&hide=roff,html,css&theme=tokyonight&exclude_repo=Wine_Shop)](https://github.com/DenisSivko/github-readme-stats)
