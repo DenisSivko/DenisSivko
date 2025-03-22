@@ -1,5 +1,5 @@
 # 👋 Привет, я Денис Сивко
-### Python-разработчик | Backend Engineer | LLM-инженер
+### Python Developer | Backend Engineer | LLM-инженер
 
 [![Email](https://img.shields.io/badge/email-densivko2306@yandex.ru-c14438?style=flat-square&logo=gmail&logoColor=white)](mailto:densivko2306@yandex.ru)
 [![LinkedIn](https://img.shields.io/badge/-denissivko-0072b1?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/denissivko/)
